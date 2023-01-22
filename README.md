@@ -47,23 +47,17 @@ def max_marks(list1):
     return maximum    
 ```
 ## Sample Input and Output
-i)
 ![output](./img/max_marks1.jpg) 
 
-ii)
 ![image](https://user-images.githubusercontent.com/118423842/213899984-74198740-9996-47c3-8cd2-1496ee633265.png)
 
-iii)
 ![image](https://user-images.githubusercontent.com/118423842/213900013-f19b6f23-8fba-4799-9729-03980d4afcc9.png)
 
 ## Output:
-i)
 ![image](https://user-images.githubusercontent.com/118423842/213900022-f0109409-6413-468e-8ef3-6736979b303b.png)
 
-ii)
 ![image](https://user-images.githubusercontent.com/118423842/213900029-662ab513-d430-4d66-918e-89aef53640f0.png)
 
-iii)
 ![image](https://user-images.githubusercontent.com/118423842/213900033-5e983e50-d9a1-46ac-9fc6-31eb0218501c.png)
 
 
